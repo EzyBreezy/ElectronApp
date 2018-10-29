@@ -50,4 +50,8 @@ https://electron.atom.io/apps
 
 ### Resources 
 
-https://electronjs.org/docs - official Electron Documentation
+[Github Electron Quick Start](https://github.com/electron/electron-quick-start)
+
+[Official Electron Docs](https://electronjs.org/docs)
+
+[Youtube - Traversy Media system app start to finish](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
