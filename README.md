@@ -3,50 +3,46 @@
 
 ### Installing Electron
 
-Globally install Electron
+1. Globally install Electron
 ```
 npm install -g electron
 ```
 
-in your project folder
+2. in your project folder
 ```
 npm init
 ```
 
-downloads the electron module
+3. downloads the electron module
 ```
 npm install electron -save
 ```
-for the brave ones that want to get the latest of latest might be buggy.
+3. for the brave ones that want to get the latest of latest might be buggy.
 ```
 npm install electron@nightly
 ```
 
-after setting up your app to run use
+4. after setting up your app to run use
 ```
 electron .
 ```
 
-### Quick Start in Electron
-
-https://github.com/electron/electron-quick-start
-
 ### Things Learned
 
-- Main Process - Package.json main script. Creates "BrowserWindow" instances to run web pages.
+*I learned that Electron uses js, css, html and renders all 3 in one. Its pretty awesome building applications with the same technologies used to build websites.*
 
-simple english creates a window
+- Main Process - Package.json main script. Creates "BrowserWindow" instances to run web pages.
+*creates a window*
 
 - Renderer Process - Each webpage runs its own isolated process called the "renderer process"
-
-simple english creates mini items within the window.
+*creates mini items within the window.*
 
 ### Popular Things Built With Electron
 - Atom
 - Slack
 to see more applications built with Electron. checkout 
+[Electron](https://electron.atom.io/apps)
 
-https://electron.atom.io/apps
 
 ### Resources 
 
