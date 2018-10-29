@@ -3,14 +3,32 @@
 
 ### Installing Electron
 
-
+Globally install Electron
+```
 npm install -g electron
+```
 
+in your project folder
+```
+npm init
+```
+
+downloads the electron module
+```
 npm install electron -save
+```
+for the brave ones that want to get the latest of latest might be buggy.
+```
+npm install electron@nightly
+```
 
+after setting up your app to run use
+```
 electron .
+```
 
 ### Quick Start in Electron
+
 https://github.com/electron/electron-quick-start
 
 ### Things Learned
@@ -31,4 +49,5 @@ to see more applications built with Electron. checkout
 https://electron.atom.io/apps
 
 ### Resources 
+
 https://electronjs.org/docs - official Electron Documentation
