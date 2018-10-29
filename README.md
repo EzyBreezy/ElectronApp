@@ -15,7 +15,7 @@ npm init
 
 3. downloads the electron module
 ```
-npm install electron -save
+npm install electron
 ```
 3. for the brave ones that want to get the latest of latest might be buggy.
 ```
@@ -51,3 +51,10 @@ to see more applications built with Electron. checkout
 [Official Electron Docs](https://electronjs.org/docs)
 
 [Youtube - *Traversy Media* system app start to finish](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
+
+## What I'm building
+I want to build a todo list to learn the electron language. 
+
+I invision an application that has 3 columns for different phases of the todo. I want to have a way to manage projects I'm working on and Electron being a desktop app seems a cool way to track the progress.
+
+- [x] Create a github for ElectronApp
