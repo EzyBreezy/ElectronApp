@@ -61,4 +61,5 @@ I invision an application that has 3 columns for different phases of the todo. I
 - [x] Create a Hello World 
 - [ ] Create a todo
 
-Electron can interact with the local file system. So presumably can save information locally.
+
+*Electron can interact with the local file system. So presumably its possible that I can save information locally.*
