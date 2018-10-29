@@ -63,3 +63,25 @@ I invision an application that has 3 columns for different phases of the todo. I
 
 
 *Electron can interact with the local file system. So presumably its possible that I can save information locally.*
+
+
+##### Why Did you choose this subject?
+####### *I chose this subject because I ran into a lot of electron projects during hacktoberfest.*
+
+##### How were you first made aware of it?
+####### *I learned about it in the meetup I atteneded at in3 (Inclusive Innovation Incubator)*
+
+##### What Problem does it solve?
+####### *Its a native desktop application and doesnt need a browser to run because its built within a browser. Its cross platform capable.*
+
+##### Why does one use it?
+####### *I presume developers would use it to build internal web applications or ways of manipulating or retreiving hardware data*
+
+##### What are the alternatives?
+####### *I was to excited to learn about Electron to look at alternative, I would assume Java would be similar*
+
+##### What are similar to, if anything?
+####### *Its Vanilla JS, HTML, & CSS. so pretty much everything is a transfer over to it.*
+
+##### What is the history of this technology?
+####### *Its an open source platform started by Github as a framework on which atom would be built it was open sourced in the spring of 2014*
