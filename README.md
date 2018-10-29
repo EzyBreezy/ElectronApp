@@ -58,3 +58,5 @@ I want to build a todo list to learn the electron language.
 I invision an application that has 3 columns for different phases of the todo. I want to have a way to manage projects I'm working on and Electron being a desktop app seems a cool way to track the progress.
 
 - [x] Create a github for ElectronApp
+- [x] Create a Hello World 
+- [ ] Create a todo
