@@ -54,4 +54,4 @@ https://electron.atom.io/apps
 
 [Official Electron Docs](https://electronjs.org/docs)
 
-[Youtube - Traversy Media system app start to finish](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
+[Youtube - *Traversy Media* system app start to finish](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
