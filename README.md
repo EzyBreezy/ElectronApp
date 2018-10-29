@@ -85,3 +85,25 @@ I invision an application that has 3 columns for different phases of the todo. I
 
 ### What is the history of this technology?
 ##### *Its an open source platform started by Github as a framework on which atom would be built it was open sourced in the spring of 2014*
+
+### What is your opinion on the technology after having built something with it?
+##### *Its pretty awesome to work with and see the results but not being an actual browser it was hard to understand how to lay out I want to continue working on this.*
+
+### What is the biggest conceptual hurdles (if any) you encounted when researching this?
+##### *global state of array, specific lines of code for platforms based from documentation. I struggled finding the things I needed to build the application I wanted. I assumed refreshing the window would refresh my changes based on my CSS application but the Javascript did not refresh and required I close the session and restart.*
+
+### What resourced would you recommend for interested students? 
+##### *I would watch tutorials so you know what each api does and follow along. After watching the course try and tweak your application to do what you want.*
+
+### What articles or forum was most helpful to you in learning this?
+##### *I watched videos to get better understanding on it. The Electron documentation was great but didnt understand the jargin*
+
+### What are 3 interview question one might be asked about this technology?
+##### What language is this written in?
+##### How does one define a window?
+##### How do you close a window in Electron?
+
+## Instructions To Start App
+```
+electron .
+```
